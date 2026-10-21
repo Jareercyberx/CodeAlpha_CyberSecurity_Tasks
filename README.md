@@ -1,6 +1,6 @@
 # CodeAlpha Cyber Security Internship Tasks
 
-Developer: Syed Jareer Ahmad Shah Jaffri (Cyber Jerry)
+Developer: Jareer Ahmad Shah (Cyber Jerry)
 Program: CodeAlpha Cyber Security Internship
 
 This repository contains my submissions for the CodeAlpha internship tasks.
